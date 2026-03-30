@@ -1,0 +1,193 @@
+Variable  
+Constant  
+Data type  
+Integer  
+Float  
+Boolean  
+String  
+Array  
+List  
+Tuple  
+Set  
+Dictionary  
+Stack  
+Queue  
+Linked list  
+Doubly linked list  
+Circular buffer  
+Hash table  
+Tree  
+Binary tree  
+Binary search tree  
+Heap  
+Graph  
+Node  
+Edge  
+Algorithm  
+Sorting  
+Searching  
+Recursion  
+Iteration  
+Loop  
+Conditional  
+If statement  
+Else statement  
+Switch statement  
+Function  
+Method  
+Parameter  
+Argument  
+Return value  
+Lambda  
+Closure  
+Recursion  
+Overloading  
+Overriding  
+Constructor  
+Destructor  
+Class  
+Object  
+Inheritance  
+Polymorphism  
+Encapsulation  
+Interface  
+Abstract class  
+Composition  
+Aggregation  
+API  
+REST  
+GraphQL  
+SOAP  
+HTTP  
+HTTPS  
+GET  
+POST  
+PUT  
+DELETE  
+PATCH  
+Cookie  
+Session  
+JWT  
+OAuth  
+WebSocket  
+Frontend  
+Backend  
+Fullstack  
+Framework  
+Library  
+Node.js  
+React  
+Angular  
+Vue.js  
+Django  
+Flask  
+Spring  
+Ruby on Rails  
+Compiler  
+Interpreter  
+Bytecode  
+Virtual machine  
+Garbage collection  
+Memory management  
+Thread  
+Multithreading  
+Process  
+Concurrency  
+Parallelism  
+Asynchronous  
+Synchronous  
+Promise  
+Event loop  
+Callback  
+Exception  
+Try-catch  
+Debugging  
+Profiling  
+Refactoring  
+Unit test  
+Integration test  
+System test  
+Acceptance test  
+TDD  
+BDD  
+CI/CD  
+Version control  
+Git  
+Branch  
+Merge  
+Commit  
+Pull request  
+Tag  
+Release  
+Repository  
+Package manager  
+Dependency  
+Module  
+Script  
+Shell  
+Terminal  
+Command line  
+Encryption  
+Decryption  
+Hashing  
+Authentication  
+Authorization  
+OAuth  
+SSL/TLS  
+Vulnerability  
+Penetration test  
+SQL  
+NoSQL  
+Database  
+Table  
+Schema  
+Index  
+Query  
+Transaction  
+Normalization  
+Denormalization  
+Trigger  
+Stored procedure  
+View  
+Join  
+Constraint  
+ORM  
+Docker  
+Container  
+Kubernetes  
+Microservices  
+Monolithic  
+Cloud  
+AWS  
+Azure  
+GCP  
+DevOps  
+Monitoring  
+Logging  
+Alerting  
+Scalability  
+Load balancing  
+Caching  
+CDN  
+API gateway  
+Message queue  
+Event-driven  
+Reactive programming  
+Machine learning  
+Supervised learning  
+Unsupervised learning  
+Reinforcement learning  
+Neural network  
+Deep learning  
+Training  
+Inference  
+Model  
+Dataset  
+Feature  
+Label  
+Overfitting  
+Underfitting  
+Regularization  
+Hyperparameter  
+Gradient descent  
+

@@ -1,0 +1,20 @@
+
+services:
+  ndc:
+    build: .
+    container_name: ndc
+    volumes:
+      - ./src:/app/src
+      - ./ndc/context.txt:/app/context.txt
+      - ./ndc/questions.txt:/app/questions.txt
+    command: python src/main.py
+
+  programming:
+    build: .
+    container_name: programming
+    volumes:
+      - ./src:/app/src
+      - ./programming/context.txt:/app/context.txt
+      - ./programming/questions.txt:/app/questions.txt
+    command: python src/main.py
+

@@ -1,0 +1,132 @@
+###Nature-based Solutions y Agricultura
+
+What are nature-based solutions in climate adaptation?
+What is the role of biochar in soil health and carbon capture?
+How is agricultural technology used to lower carbon emissions?
+What is vertical farming and how is it climate-friendly?
+How does precision agriculture support emissions reduction?
+How can agroforestry support sustainable land use and carbon sequestration?
+How do soil carbon practices contribute to climate mitigation?
+What role do regenerative agriculture techniques play in climate adaptation?
+
+####Energía Renovable y Almacenamiento
+
+What role does offshore wind play in the UK’s energy transition?
+What is the role of tidal energy in renewable systems?
+What role does geothermal energy play in the UK?
+What are the environmental trade-offs of large-scale solar farms?
+What are the lifecycle emissions of different renewable technologies?
+What role do battery storage systems play in energy transition and supporting renewable energy?
+How does green hydrogen support transport and the UK's low-carbon economy?
+What is the potential of algae-based biofuels in the energy mix?
+What are sustainable aviation fuels and their potential?
+What is the role of hydrogen in decarbonising heavy industry?
+How can wave energy be integrated into national grids?
+What are the challenges of scaling up bioenergy with carbon capture (BECCS)?
+How does pumped hydro storage support energy reliability?
+What are hybrid renewable systems and how do they improve energy security?
+How can smart grids support the integration of variable renewable sources?
+
+###Edificaciones y Urbanismo
+
+How do building retrofits contribute to emissions reduction?
+What are passive solar building designs?
+What innovations are emerging in sustainable building materials?
+What is green building certification and how does it support climate goals?
+What is the role of zero-carbon buildings in achieving net-zero targets?
+How can building-integrated photovoltaics contribute to energy generation?
+How does urban heat island mitigation relate to building design?
+How do heat pumps contribute to emissions reduction?
+What are the benefits of modular construction for sustainability?
+How can rooftop gardens and green roofs contribute to climate resilience?
+
+###Transporte y Movilidad
+
+How do electric vehicles contribute to decarbonisation?
+What are the innovations in zero-emissions transport systems?
+What are synthetic fuels and how are they produced?
+What are the limits of electrification in heavy industry and freight transport?
+What role do hydrogen fuel cell vehicles play in the transport transition?
+How can rail electrification reduce transport emissions?
+What are the opportunities for decarbonising aviation?
+What infrastructure is needed to support EV adoption at scale?
+How can shared mobility solutions reduce urban emissions?
+
+###Captura de Carbono y Emisiones Negativas
+
+What are the advantages and disadvantages of carbon capture and storage?
+What is carbon-negative technology and how does it work?
+What are direct air capture technologies, how do they work, and how effective are they?
+How is carbon intensity measured in various industries?
+How does mineralization work in long-term carbon storage?
+What are the economic barriers to carbon removal technologies?
+What is ocean-based carbon sequestration and is it viable?
+How does enhanced weathering contribute to atmospheric CO₂ reduction?
+How can emissions tracking systems improve transparency?
+
+####Tecnología Digital y Datos
+
+How can artificial intelligence optimize grid efficiency?
+How do AI and data analytics improve energy efficiency?
+How do smart thermostats aid in climate mitigation?
+How is blockchain technology used to support carbon tracking?
+How are drones used in environmental monitoring?
+What role does remote sensing play in resource management?
+How can machine learning improve climate modeling accuracy?
+How can digital twins be used in energy system planning?
+How do satellite technologies aid in deforestation tracking?
+What are the privacy implications of climate monitoring tech?
+How do real-time data platforms help manage energy demand?
+
+###Industria y Materiales
+
+What innovations exist in low-carbon cement production?
+How can 3D printing reduce material waste and emissions?
+What are the challenges in decarbonising the steel industry?
+What role does electrification play in high-heat industrial processes?
+How can industrial symbiosis reduce waste and emissions?
+What are the main barriers to adopting clean technologies in industry?
+How does carbon pricing influence industrial innovation?
+What are low-carbon alternatives to traditional concrete?
+How can recycling of industrial byproducts support circularity?
+What role does process heat play in industrial emissions?
+
+####Economía Circular y Producción Responsable
+
+How can circular economy models reduce emissions?
+How can waste-to-energy technologies support clean energy goals?
+How do product lifecycle assessments support sustainable design?
+How can eco-design reduce material intensity?
+What role do repair and reuse systems play in reducing consumption?
+How can extended producer responsibility policies lower emissions?
+What are closed-loop manufacturing systems?
+How can digital product passports enhance supply chain transparency?
+
+####Gobernanza, Regulación e Implementación
+
+How does climate policy drive technological innovation?
+What role do government subsidies play in clean tech deployment?
+What are the key components of a national decarbonisation roadmap?
+How do building codes affect emissions in construction?
+What role do carbon markets play in encouraging low-carbon innovation?
+What is the impact of public procurement on sustainable tech adoption?
+How can municipal climate action plans accelerate clean energy use?
+How do international treaties influence national technology strategies?
+How does the UK’s Net Zero Strategy incentivize innovation?
+What is the role of regulation in scaling up hydrogen infrastructure?
+
+####Finanzas, Evaluación y Riesgo
+
+What are the investment risks in emerging climate technologies?
+How does green finance support clean energy development?
+What role do carbon disclosure frameworks play in risk assessment?
+How do financial incentives encourage technology adoption in SMEs?
+How can public-private partnerships accelerate clean infrastructure?
+
+####Innovaciones Emergentes y Otras Soluciones
+
+What are hybrid energy microgrids and how do they support rural resilience?
+How can wearable tech contribute to environmental awareness?
+How do desalination technologies adapt to climate change impacts?
+What is the role of atmospheric water generation in water-scarce areas?
+How can innovation hubs accelerate climate solution deployment?

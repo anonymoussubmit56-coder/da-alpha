@@ -1,0 +1,160 @@
+#Programming
+
+# 100 Unique Programming Questions
+
+# Fundamentals
+What is the difference between compiled and interpreted languages?  
+How does memory management work in programming languages?  
+What are the main data types in most programming languages?  
+What is the role of variables and constants in code?  
+How do operators differ from functions in programming?  
+What is the difference between static and dynamic typing?  
+How are scope and lifetime of variables determined?  
+What are expressions and statements in programming?  
+How do comments affect code execution?  
+What is the purpose of a main function in programming?  
+
+# Control Flow
+What is the difference between if, else if, and else statements?  
+How do switch or case statements work?  
+What is the difference between while loops and for loops?  
+How does a do-while loop differ from a while loop?  
+What is the use of break and continue statements?  
+How are nested loops implemented and used?  
+What are infinite loops and how can they be prevented?  
+How does short-circuit evaluation work in conditional statements?  
+What is the purpose of a return statement in functions?  
+How does exception handling affect control flow?  
+
+# Functions and Methods
+What is the difference between a function and a method?  
+How are parameters passed by value and by reference?  
+What is the purpose of recursion in programming?  
+How do anonymous or lambda functions work?  
+What are closures and how are they used?  
+How is function overloading implemented?  
+What is the difference between pure and impure functions?  
+How do higher-order functions operate?  
+What are default arguments in functions?  
+How is a function’s return type defined and enforced?  
+
+# Object-Oriented Programming
+What are the core principles of object-oriented programming?  
+How do classes differ from objects?  
+What is inheritance and how is it applied?  
+What is polymorphism and why is it useful?  
+How do encapsulation and access modifiers work?  
+What is the role of constructors and destructors?  
+How do abstract classes differ from interfaces?  
+What is method overriding and how is it different from overloading?  
+How are static members used in classes?  
+What is the difference between composition and aggregation?  
+
+# Data Structures
+What is the difference between arrays and linked lists?  
+How do stacks and queues differ in functionality?  
+What are hash tables and how do they work?  
+What is the difference between a tree and a graph?  
+How are binary search trees structured and used?  
+What is a heap and what are its main types?  
+How do sets differ from lists or arrays?  
+What is the purpose of priority queues?  
+How is a doubly linked list implemented?  
+What are circular buffers and when are they useful?  
+
+# Algorithms
+What is the difference between linear and binary search?  
+How do sorting algorithms differ in complexity?  
+What is the time complexity of common search algorithms?  
+How do greedy algorithms solve optimization problems?  
+What is dynamic programming and when should it be used?  
+How do divide-and-conquer algorithms work?  
+What is the difference between depth-first and breadth-first search?  
+How are graph traversal algorithms implemented?  
+What is backtracking and what problems use it?  
+How does memoization improve recursive algorithm performance?  
+
+# Databases
+What is the difference between SQL and NoSQL databases?  
+How do primary keys differ from foreign keys?  
+What are indexes and how do they improve performance?  
+What is normalization and why is it important?  
+How are transactions and ACID properties related?  
+What is a stored procedure and how is it used?  
+How do joins work in relational databases?  
+What are triggers and when should they be used?  
+What is denormalization and why is it sometimes necessary?  
+How is database connection pooling implemented?  
+
+# Web Development
+What is the difference between client-side and server-side scripting?  
+How does HTTP differ from HTTPS?  
+What is RESTful API design?  
+How do cookies and sessions differ in web applications?  
+What are web sockets and how do they enable real-time communication?  
+What is the difference between GET and POST requests?  
+How do HTML, CSS, and JavaScript interact in web development?  
+What is cross-origin resource sharing (CORS) and why is it important?  
+How do frontend frameworks differ from backend frameworks?  
+What are progressive web apps (PWAs) and their benefits?  
+
+# Software Engineering and Testing
+What is the difference between unit testing and integration testing?  
+How do test-driven development (TDD) and behavior-driven development (BDD) differ?  
+What is version control and why is it important?  
+How are code reviews conducted effectively?  
+What is continuous integration and continuous deployment (CI/CD)?  
+How does refactoring improve code quality?  
+What is the difference between black-box and white-box testing?  
+How do debugging tools help identify runtime errors?  
+What are design patterns and why are they used?  
+How is technical debt measured and managed?  
+
+# Security and Optimization
+What are common vulnerabilities in software applications?  
+How do SQL injection and XSS attacks differ?  
+What is encryption and how is it applied in programming?  
+How do authentication and authorization differ?  
+What are secure coding best practices?  
+How does memory profiling improve application performance?  
+What is algorithmic complexity analysis and why is it important?  
+How do caching strategies optimize web applications?  
+What are race conditions and how are they prevented?  
+What is the difference between synchronous and asynchronous programming?  
+
+# Advanced Topics
+What is multithreading and how is it implemented?  
+How do event-driven architectures work?  
+What is the difference between compiled and interpreted bytecode?  
+How does garbage collection work in managed languages?  
+What are reactive programming principles?  
+How is dependency injection implemented and used?  
+What is the role of containers in modern software deployment?  
+How do microservices architectures differ from monolithic designs?  
+What is the difference between supervised and unsupervised machine learning?  
+How do neural networks process data in AI applications?  
+
+# Programming Paradigms
+What distinguishes functional programming from imperative programming?  
+How does procedural programming differ from object-oriented programming?  
+What are logic programming languages and their use cases?  
+What is declarative programming and where is it applied?  
+How does concurrent programming handle multiple tasks simultaneously?  
+What is the role of metaprogramming in software development?  
+How do scripting languages differ from system programming languages?  
+What are embedded systems and how is programming specialized for them?  
+What is event-driven programming and where is it most useful?  
+How do reactive streams help manage asynchronous data flows?  
+
+# Version Control and Collaboration
+What is Git and why is it widely used?  
+How do branches and merges work in version control?  
+What is the difference between fork and clone in Git workflows?  
+How do pull requests improve collaborative development?  
+What are tags and releases used for in repositories?  
+How does conflict resolution work in version control systems?  
+What is continuous integration and how does it automate testing?  
+How do commit messages affect code maintainability?  
+What is the purpose of a version control workflow like GitFlow?  
+How do private and public repositories differ in access control?  
+
